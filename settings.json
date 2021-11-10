@@ -6,9 +6,9 @@
     },
 
     "server":{
-        "ip": "localhost",
-        "port": 25565,
-        "version": "1.16.4"
+        "ip": "VIIBSMP.aternos.me",
+        "port": 60508,
+        "version": "1.17.1"
     },
 
     "position":{
